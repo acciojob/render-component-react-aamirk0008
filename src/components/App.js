@@ -1,6 +1,6 @@
 import React, {Component, useState} from "react";
 import '../styles/App.css';
-import para from './index.jsx'
+import para from './index'
 
 const App = () => {
   return (
